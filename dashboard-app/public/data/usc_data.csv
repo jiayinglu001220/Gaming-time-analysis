@@ -1,0 +1,301 @@
+student_id,Gender,daily_gaming_time_range,daily_gaming_time,GPA,Household Income
+1,Male,More than 3 Hours,6,3.71,Low
+2,Male,More than 3 Hours,6,2.71,High
+3,Male,More than 3 Hours,3,2.77,Upper middle
+4,Male,0-1 Hours,0,3.45,Upper middle
+5,Female,1-2 Hours,2,3.75,Upper middle
+6,Female,1-2 Hours,2,2.87,Upper middle
+7,Male,More than 3 Hours,8,2.94,Lower middle
+8,Male,More than 3 Hours,7,3.06,Low
+9,Male,0-1 Hours,1,3,Upper middle
+10,Male,More than 3 Hours,7,2.8,Low
+11,Female,0-1 Hours,0,2.77,High
+12,Male,More than 3 Hours,4,3.91,Lower middle
+13,Female,More than 3 Hours,4,3.3,Low
+14,Female,0-1 Hours,0,3.44,High
+15,Female,1-2 Hours,1,3.61,High
+16,Male,0-1 Hours,1,3.15,High
+17,Female,1-2 Hours,1,3.58,Upper middle
+18,Male,1-2 Hours,1,3.59,Upper middle
+19,Male,2-3 Hours,2,3.34,High
+20,Male,1-2 Hours,1,2.6,Upper middle
+21,Male,0-1 Hours,0,3.31,Upper middle
+22,Male,0-1 Hours,0,2.74,Upper middle
+23,Male,1-2 Hours,2,3.1,Upper middle
+24,Female,0-1 Hours,1,3.15,Upper middle
+25,Male,1-2 Hours,1,3.44,High
+26,Male,More than 3 Hours,6,2.55,Low
+27,Male,0-1 Hours,0,3.08,Upper middle
+28,Male,0-1 Hours,0,3.19,Upper middle
+29,Female,1-2 Hours,2,2.75,High
+30,Male,More than 3 Hours,7,3.03,Lower middle
+31,Female,0-1 Hours,0,3.86,Upper middle
+32,Male,0-1 Hours,0,3.75,High
+33,Male,1-2 Hours,1,3.78,Upper middle
+34,Male,More than 3 Hours,3,3.21,Lower middle
+35,Male,1-2 Hours,1,3.39,Upper middle
+36,Male,0-1 Hours,1,3.3,High
+37,Male,More than 3 Hours,8,3.35,Low
+38,Male,0-1 Hours,0,4,High
+39,Male,More than 3 Hours,5,3.01,Upper middle
+40,Male,0-1 Hours,1,3.73,High
+41,Male,2-3 Hours,3,3.57,Low
+42,Male,More than 3 Hours,7,3.94,Upper middle
+43,Male,0-1 Hours,0,2.64,High
+44,Female,More than 3 Hours,4,3.29,Low
+45,Male,0-1 Hours,0,2.92,Upper middle
+46,Male,0-1 Hours,0,3.06,High
+47,Female,More than 3 Hours,6,3,High
+48,Female,2-3 Hours,3,3.51,Low
+49,Male,0-1 Hours,1,3.5,Upper middle
+50,Male,More than 3 Hours,8,3.32,Upper middle
+51,Male,0-1 Hours,1,3.09,Upper middle
+52,Female,0-1 Hours,0,3.28,High
+53,Female,2-3 Hours,2,3.97,High
+54,Female,0-1 Hours,1,3.3,High
+55,Male,More than 3 Hours,3,3.04,Upper middle
+56,Female,2-3 Hours,3,3.3,High
+57,Male,More than 3 Hours,8,3.21,Lower middle
+58,Female,1-2 Hours,2,3.96,Low
+59,Female,0-1 Hours,0,3.83,High
+60,Male,0-1 Hours,1,2.89,High
+61,Male,2-3 Hours,2,2.84,High
+62,Male,2-3 Hours,3,3.77,Low
+63,Male,2-3 Hours,2,3.39,Low
+64,Male,0-1 Hours,1,2.83,High
+65,Male,0-1 Hours,1,2.55,Upper middle
+66,Female,1-2 Hours,1,3.68,High
+67,Female,More than 3 Hours,5,3,Upper middle
+68,Male,1-2 Hours,2,3.48,High
+69,Female,0-1 Hours,1,3.82,Upper middle
+70,Male,1-2 Hours,2,3.94,High
+71,Male,1-2 Hours,2,3.51,High
+72,Male,2-3 Hours,3,3.06,Low
+73,Female,0-1 Hours,0,2.82,High
+74,Female,1-2 Hours,2,2.83,Upper middle
+75,Female,0-1 Hours,1,3.42,Upper middle
+76,Female,0-1 Hours,1,2.51,Upper middle
+77,Male,More than 3 Hours,6,3.71,High
+78,Female,2-3 Hours,3,3.9,Lower middle
+79,Female,1-2 Hours,2,3.72,Upper middle
+80,Male,2-3 Hours,3,2.97,Lower middle
+81,Female,1-2 Hours,1,3.93,Upper middle
+82,Female,1-2 Hours,2,3.66,High
+83,Female,More than 3 Hours,6,3.33,High
+84,Male,1-2 Hours,2,2.89,High
+85,Male,More than 3 Hours,4,3.3,Upper middle
+86,Male,More than 3 Hours,5,3.39,Low
+87,Female,More than 3 Hours,5,3.15,Lower middle
+88,Male,0-1 Hours,0,3.98,Upper middle
+89,Male,0-1 Hours,0,3.92,Upper middle
+90,Female,1-2 Hours,2,2.89,High
+91,Female,0-1 Hours,1,2.79,Upper middle
+92,Female,1-2 Hours,2,3.72,Lower middle
+93,Female,0-1 Hours,0,3.42,Upper middle
+94,Male,2-3 Hours,2,3.19,Upper middle
+95,Male,More than 3 Hours,3,2.83,Low
+96,Female,2-3 Hours,3,3.33,Low
+97,Female,2-3 Hours,3,3.4,High
+98,Female,1-2 Hours,2,2.7,High
+99,Male,0-1 Hours,1,3.93,Upper middle
+100,Female,0-1 Hours,0,2.79,Upper middle
+101,Male,More than 3 Hours,5,3.4,High
+102,Male,1-2 Hours,2,3.9,Low
+103,Female,More than 3 Hours,6,2.7,Upper middle
+104,Female,0-1 Hours,0,4,High
+105,Female,1-2 Hours,1,3.7,High
+106,Male,1-2 Hours,1,3.9,High
+107,Male,More than 3 Hours,4,3.4,Upper middle
+108,Female,0-1 Hours,1,3.4,High
+109,Female,1-2 Hours,1,3.3,Upper middle
+110,Female,0-1 Hours,1,3.1,Low
+111,Male,More than 3 Hours,6,2.8,Low
+112,Female,0-1 Hours,0,3.2,Upper middle
+113,Female,0-1 Hours,1,3.3,Low
+114,Female,More than 3 Hours,4,3.9,Upper middle
+115,Female,1-2 Hours,2,3.4,Low
+116,Female,0-1 Hours,1,3.7,High
+117,Male,1-2 Hours,1,3.8,High
+118,Female,1-2 Hours,1,3.5,Upper middle
+119,Female,0-1 Hours,0,3.4,Low
+120,Male,0-1 Hours,1,3.6,High
+121,Male,More than 3 Hours,4,4,Low
+122,Male,More than 3 Hours,4,3.6,High
+123,Male,1-2 Hours,2,4,Low
+124,Male,1-2 Hours,1,3.2,Low
+125,Male,0-1 Hours,1,3.7,Low
+126,Male,More than 3 Hours,4,3.7,Low
+127,Female,1-2 Hours,1,3.6,Low
+128,Female,0-1 Hours,0,3.1,Low
+129,Male,More than 3 Hours,4,2.9,High
+130,Female,0-1 Hours,1,3.8,Low
+131,Male,1-2 Hours,2,3.1,Low
+132,Male,More than 3 Hours,4,4,Low
+133,Female,More than 3 Hours,4,3.4,High
+134,Female,1-2 Hours,2,3.6,Upper middle
+135,Female,0-1 Hours,1,3.3,High
+136,Female,1-2 Hours,2,3.1,Low
+137,Male,More than 3 Hours,4,3.2,Upper middle
+138,Male,1-2 Hours,1,3.4,Upper middle
+139,Male,1-2 Hours,1,2.6,Upper middle
+140,Female,1-2 Hours,2,4,Low
+141,Female,1-2 Hours,1,3.7,High
+142,Female,More than 3 Hours,6,3.4,High
+143,Female,0-1 Hours,1,3.7,Upper middle
+144,Male,More than 3 Hours,4,4,Upper middle
+145,Male,1-2 Hours,2,3.4,High
+146,Male,More than 3 Hours,4,4,Upper middle
+147,Female,More than 3 Hours,5,3.2,High
+148,Male,0-1 Hours,1,3.7,Low
+149,Female,More than 3 Hours,4,3.9,Upper middle
+150,Male,0-1 Hours,0,3.8,Low
+151,Female,0-1 Hours,0,3.8,Upper middle
+152,Male,0-1 Hours,0,3.3,Upper middle
+153,Male,More than 3 Hours,4,3.9,High
+154,Female,1-2 Hours,1,4,Upper middle
+155,Female,More than 3 Hours,6,2.7,Low
+156,Female,0-1 Hours,0,3,Low
+157,Female,1-2 Hours,2,3.4,Upper middle
+158,Female,More than 3 Hours,4,3.1,Upper middle
+159,Male,1-2 Hours,1,3.9,Upper middle
+160,Male,0-1 Hours,0,4,Upper middle
+161,Female,0-1 Hours,1,3.6,Low
+162,Male,More than 3 Hours,4,3.3,Low
+163,Male,More than 3 Hours,4,3.5,Upper middle
+164,Female,More than 3 Hours,4,3.2,High
+165,Female,1-2 Hours,2,3.3,Upper middle
+166,Female,0-1 Hours,0,3.5,Low
+167,Female,More than 3 Hours,6,2.8,High
+168,Female,0-1 Hours,1,3.8,Low
+169,Female,0-1 Hours,1,3,Upper middle
+170,Male,0-1 Hours,1,3.2,Upper middle
+171,Male,1-2 Hours,2,4,Low
+172,Male,0-1 Hours,0,3.9,Upper middle
+173,Male,More than 3 Hours,6,2.5,Low
+174,Male,1-2 Hours,2,2.9,High
+175,Male,0-1 Hours,0,3.1,Low
+176,Female,More than 3 Hours,6,2.9,Low
+177,Female,1-2 Hours,2,3.6,Upper middle
+178,Male,More than 3 Hours,4,3.9,High
+179,Male,1-2 Hours,2,3.1,Upper middle
+180,Male,1-2 Hours,1,3.8,High
+181,Male,0-1 Hours,0,3.8,High
+182,Male,More than 3 Hours,5,3.3,Upper middle
+183,Female,More than 3 Hours,4,3.5,High
+184,Female,0-1 Hours,0,3.3,Upper middle
+185,Male,0-1 Hours,0,3.3,Low
+186,Male,More than 3 Hours,4,3.6,Low
+187,Female,1-2 Hours,2,3.1,Upper middle
+188,Male,0-1 Hours,0,4,High
+189,Female,1-2 Hours,1,3.3,Low
+190,Female,0-1 Hours,1,3.9,High
+191,Male,More than 3 Hours,5,2.9,Low
+192,Male,More than 3 Hours,5,3,Upper middle
+193,Male,1-2 Hours,2,3.4,High
+194,Male,0-1 Hours,0,3.8,Low
+195,Male,More than 3 Hours,4,3.9,High
+196,Male,1-2 Hours,2,3.8,Upper middle
+197,Male,More than 3 Hours,4,4,High
+198,Male,More than 3 Hours,4,3.3,High
+199,Male,0-1 Hours,1,3.6,Upper middle
+200,Female,More than 3 Hours,4,3.8,High
+201,Male,More than 3 Hours,4,3.3,Low
+202,Male,1-2 Hours,2,3.1,Upper middle
+203,Female,0-1 Hours,0,3.8,High
+204,Female,More than 3 Hours,4,3.8,High
+205,Male,0-1 Hours,0,3.3,Low
+206,Male,1-2 Hours,1,3,High
+207,Male,More than 3 Hours,4,3.4,Low
+208,Male,0-1 Hours,0,4,Upper middle
+209,Male,0-1 Hours,0,3.2,Low
+210,Male,1-2 Hours,2,3.9,Upper middle
+211,Female,1-2 Hours,1,2.6,Upper middle
+212,Female,More than 3 Hours,4,3.8,High
+213,Male,0-1 Hours,1,3.1,Low
+214,Male,More than 3 Hours,6,3,Upper middle
+215,Female,0-1 Hours,1,3.9,Low
+216,Male,More than 3 Hours,4,3.6,Low
+217,Female,1-2 Hours,1,3.8,Upper middle
+218,Male,1-2 Hours,2,3.4,Upper middle
+219,Female,0-1 Hours,1,4,Low
+220,Male,1-2 Hours,1,3.4,Low
+221,Male,0-1 Hours,1,3.1,Upper middle
+222,Male,0-1 Hours,1,3.6,Low
+223,Female,More than 3 Hours,4,3.9,Low
+224,Female,1-2 Hours,1,3.3,Low
+225,Male,More than 3 Hours,4,3.8,Low
+226,Male,1-2 Hours,1,3.5,Upper middle
+227,Female,0-1 Hours,0,3.7,Upper middle
+228,Male,More than 3 Hours,4,3.9,High
+229,Female,0-1 Hours,1,3.6,High
+230,Female,1-2 Hours,2,3.9,Low
+231,Male,1-2 Hours,1,3.4,High
+232,Male,More than 3 Hours,4,3.7,Low
+233,Male,More than 3 Hours,4,3.7,Low
+234,Female,1-2 Hours,1,3.9,Low
+235,Male,1-2 Hours,1,3.7,Upper middle
+236,Male,0-1 Hours,0,3.2,Low
+237,Male,More than 3 Hours,4,3.7,High
+238,Male,1-2 Hours,1,4,Upper middle
+239,Male,More than 3 Hours,4,3.6,High
+240,Female,1-2 Hours,2,4,Low
+241,Male,More than 3 Hours,4,3.7,High
+242,Female,More than 3 Hours,4,3.5,High
+243,Female,0-1 Hours,1,3.9,Upper middle
+244,Male,1-2 Hours,1,4,High
+245,Male,0-1 Hours,0,3.4,High
+246,Female,More than 3 Hours,4,3.9,High
+247,Male,More than 3 Hours,4,3.6,Low
+248,Male,0-1 Hours,1,3.6,Upper middle
+249,Male,1-2 Hours,1,3.7,Upper middle
+250,Female,0-1 Hours,1,3,Low
+251,Female,0-1 Hours,0,4,Upper middle
+252,Male,0-1 Hours,1,2.9,Low
+253,Female,0-1 Hours,1,3.3,Upper middle
+254,Female,1-2 Hours,1,2.9,Low
+255,Female,0-1 Hours,1,3.1,Low
+256,Female,0-1 Hours,1,3.1,Upper middle
+257,Female,0-1 Hours,1,4,Low
+258,Female,1-2 Hours,2,3.8,High
+259,Male,1-2 Hours,2,3.7,Low
+260,Female,1-2 Hours,1,3.9,High
+261,Male,0-1 Hours,0,4,Upper middle
+262,Female,0-1 Hours,1,3.6,High
+263,Female,0-1 Hours,1,3.3,Upper middle
+264,Male,0-1 Hours,1,3.7,Low
+265,Female,0-1 Hours,0,3.9,High
+266,Male,0-1 Hours,0,3.8,High
+267,Female,More than 3 Hours,5,2.8,Low
+268,Female,1-2 Hours,2,3.3,Upper middle
+269,Male,1-2 Hours,2,3.5,Low
+270,Male,0-1 Hours,0,4,Low
+271,Male,0-1 Hours,1,3.3,High
+272,Male,0-1 Hours,0,4,High
+273,Female,More than 3 Hours,4,4,Low
+274,Male,0-1 Hours,0,3.5,Upper middle
+275,Male,1-2 Hours,1,3.2,High
+276,Female,More than 3 Hours,4,3.3,Upper middle
+277,Female,More than 3 Hours,6,3,Upper middle
+278,Female,1-2 Hours,1,3.2,High
+279,Male,0-1 Hours,0,3.6,Low
+280,Male,1-2 Hours,1,3.8,Upper middle
+281,Female,1-2 Hours,2,3.8,Low
+282,Female,0-1 Hours,1,3.6,Low
+283,Male,More than 3 Hours,4,3.8,Upper middle
+284,Male,More than 3 Hours,6,3.2,High
+285,Female,1-2 Hours,1,3.2,Low
+286,Male,0-1 Hours,1,4,Low
+287,Female,1-2 Hours,1,3.1,Low
+288,Male,More than 3 Hours,5,3.3,Low
+289,Female,More than 3 Hours,5,3.5,Upper middle
+290,Female,0-1 Hours,1,3.5,Upper middle
+291,Female,0-1 Hours,0,4,High
+292,Female,0-1 Hours,1,3.8,High
+293,Male,0-1 Hours,0,3.5,Low
+294,Female,More than 3 Hours,5,2.5,Low
+295,Male,More than 3 Hours,4,3.6,Upper middle
+296,Female,0-1 Hours,0,2.8,High
+297,Female,1-2 Hours,2,3.9,Low
+298,Female,0-1 Hours,1,3.4,Upper middle
+299,Male,1-2 Hours,1,3.9,Low
+300,Female,More than 3 Hours,6,2.9,Low
