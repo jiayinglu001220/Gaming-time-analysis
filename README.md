@@ -1,6 +1,6 @@
 
 -[Demonstration URL](<https://dsci-554.github.io/project-team-wonder4/>)
--[Presentation URL](<https://docs.google.com/presentation/d/1RK4C6yvwaLb6RmUEzW36hy6LeCOev5s0xak4oEdLoe4/edit?usp=sharing)
+-[Presentation URL](<https://docs.google.com/presentation/d/1RK4C6yvwaLb6RmUEzW36hy6LeCOev5s0xak4oEdLoe4/edit?usp=sharing>)
 
 ## Installation and Setup
 
